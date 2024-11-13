@@ -1,0 +1,139 @@
+The following resource may be helpful: Asthma + Lung UK www.asthmandlung.org.uk
+
+Blood tests must be booked by the patient online or by telephone as follows:
+https://www.imperial.nhs.uk/our-services/blood-tests 
+Hammersmith: 020 3313 2610
+ Charing Cross: 020 3313 5338 or 020 3311 5375
+
+
+cruse.org.uk
+ 0808 808 1677
+ CruseChat
+
+
+curaleafclinc.com
+
+
+As a reminder, this patient's bronchiectasis should be managed according to British Thoracic Society Guidelines. They should perform airway clearance exercises on a daily basis and take regular carbocisteine as a mucolytic.  If they present with a cough with increasing volume of sputum, and/or a change in sputum purulence, and/or a change in consistency, they will need prompt antibiotics after the sputum sample is sent. The minimum duration of antibiotic course should be 10 days and may be up to 14 days, again as per BTS Bronchiectasis Guidelines.
+
+Hammersmith Hospital Interstitial Lung Diseases Multidisciplinary Meeting
+
+ Your patient was discussed in the Hammersmith Hospital Interstitial Lung Diseases Multidisciplinary Meeting on [Current Date and Time].  The consensus diagnosis is _▼.  The degree of confidence is _▼. We considered the following differential diagnosis: _▼. _▼
+
+We will _▼.  We have _▼.  We plan to discuss the following potential treatments: _▼.
+
+ A summary of the discussion is documented below.
+
+ You can contact the ILD service via Rego or the ILD advice line on 0203 704 8208 or imperial.chest-allergysec@nhs.net if you there are any questions regarding this.
+
+ Yours sincerely
+
+
+
+ Imperial College Healthcare NHS Trust ILD Service
+
+
+
+
+Summary
+
+Attendees
+
+
+
+
+Radiology: Prof Copley, Dr Mahboobani, Dr Barden, Dr Hajhosseiny, Dr Olakunbi, Dr Chen 
+Respiratory Consultants: Prof Coker, Dr Ward, Dr Patel, Dr Woods, Dr Coleman, Dr Finney, Dr Meghji 
+Respiratory SpRs: Dr 
+ILD CNS: Geeta Vekaria 
+ILD Lead Pharmacist: Zaneeta Nagji 
+Rheumatology: Dr Carulli, Dr Youngstein, Dr Carlucci, Dr Campani 
+Pathology: Dr Viola 
+ILD Coordinator: Cherie February 
+
+Clinical Summary
+
+
+Relevant Medications
+
+
+Relevant Exposures and Occupational History
+
+
+Summary of Pulmonary Function Tests 
+
+
+
+
+      
+
+
+
+
+
+
+
+FVC   %   % 
+
+
+
+
+
+
+
+FEV1   %   % 
+
+
+
+
+
+
+
+ratio         
+
+
+
+
+
+
+
+TLC   %   % 
+
+
+
+
+
+
+
+TLCO   %   % 
+
+
+
+
+
+
+
+KCO   %   % 
+
+Relevant Immunology and Results
+
+
+Review of Imaging
+
+
+Discussion
+
+
+ Is there an ILD? _▼
+Radiological Pattern: _▼
+Diagnosis:  _▼
+Confidence: _▼
+Differential:  _▼
+
+Is this IPF? _▼
+Is this PF-ILD? _▼
+Date diagnosed:
+ Cerner coding: _▼
+Immunosuppressed (Cerner code 507152014)?: _▼
+BTS ILD Registry coding 1.11a/1.11b: _▼
+Outcome

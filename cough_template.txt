@@ -1,0 +1,52 @@
+NP
+Chronic cough
+ 
+Duration:
+Description:
+Triggers:
+Productive:
+Throat/irritation?:
+ 
+ 
+Severity score /10:
+ 
+Associated symptoms:
+reflux?
+upper airway? 
+SOB? 
+ 
+ 
+Smoking:
+Occupation:
+ 
+PMH:
+ 
+ 
+Ix:
+FEV1
+Ratio
+reversibility
+FeNO
+Eos count 
+ 
+imaging: 
+CXR
+CT
+ 
+Treatment trials
+PPI:
+ICS:
+Montelukast:
+Oral steroid:
+ 
+ACEi use:
+ 
+Other medications:
+ 
+BMI:
+ 
+Other previous assessment
+ENT:
+Gastro:
+ 
+Examination

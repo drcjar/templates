@@ -1,0 +1,42 @@
+GP referral:
+
+Current symptoms:
+Wheeze:
+Tightness:
+Cough:
+Nocturnal symptoms:
+Triggers: 
+
+GP trialled Salbutamol: ?helped
+
+Hayfever:
+Eczema:
+Family history atopy: 
+Smoking history: 
+
+Pets/birds:
+Mould/Damp:
+Nasal polyps:
+Wheeze with NSAIDs (aspirin, ibuprofen etc.):
+Post-nasal drip:
+Gastro-oesophageal reflux disease (GORD): 
+Sinusitis:
+
+Past Medical History:
+
+
+Drug History:
+
+Allergies:
+
+On Examination:
+Peak flow L/min (predicted X L/min, Height: Y cm)
+
+Investigations:
+?peripheral eosinophilia
+
+Lung function tests:
+
+Chest radiograph:
+
+Diagnosis and Management:
